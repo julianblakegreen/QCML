@@ -1,0 +1,7 @@
+Method,All data,Cut-off: learned,Cut-off: held back,Chunks: learned,Chunks: held back
+"PCA, 1 component",0.4776,0.5067,0.1340,0.5179,0.2179
+"PCA, 2 components (the noisy points as they are)",0.0805,0.0824,0.0756,0.0817,0.0777
+"QCML, n = 8",0.0148,0.0360,0.2453,0.0191,0.0291
+"Diffusion map, m = 2",0.0449,0.1492,0.2611,0.1471,0.1974
+"Diffusion map, m = 10",0.0088,0.0122,0.1119,0.0168,0.0316
+"Diffusion map, m = 50",0.0805,0.0843,0.1994,0.0830,0.0583
